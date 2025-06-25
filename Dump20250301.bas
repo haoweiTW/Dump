@@ -5,7 +5,7 @@ Attribute Dump.VB_ProcData.VB_Invoke_Func = " \n14"
 ' Copyright 2025 HaoWei
 '
     Dim myDate As String
-    myDate="3/Day+1/2025"
+    myDate="2025/3/Day+1"
     
     Dim myCSV As String
     myCSV=ThisWorkbook.ActiveSheet.Name
